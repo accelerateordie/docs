@@ -30,7 +30,7 @@ Additionally, Accels must overhaul the educational system to ensure it equips ne
 
 
 
-## Do No Let the Decels Control AI
+## Do Not Let the Decels Control AI
 
 This situation underscores a critical and compelling reason to prioritize acceleration: AI, while a powerful amplifier, could become a tool for control in the hands of Decels, who seek to dominate humanity. Without active resistance and awakening from humanity, people risk being trapped in a consumption loop. Here, individuals learn only the minimal necessary memetic knowledge and exert the least effort, subsisting on a life funded by a socialist tax regime that supports a universal basic income. In this scenario, individuals voluntarily forfeit their agency, and the potential time and effort that they could contribute are usurped.
 
