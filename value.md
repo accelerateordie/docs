@@ -1,51 +1,28 @@
 # Value
 
-* It is necessary to treat value, because much confusion exists about what it is. Once you understand value you understand yourself and your output far greater. It is also critical to the role of Accelerating.&#x20;
+Understanding the concept of value is crucial due to the confusion surrounding it, and it is pivotal in comprehending both oneself and one's output. This understanding also plays a critical role in the process of acceleration.
 
-\
+Everyone has a finite amount of time on Earth—even as a SpaceBrain, life is limited. Time always moves in one direction, and similarly, everyone has limited energy to exert. The degree of one's output is influenced by their experience, knowledge, and the tools at their disposal. When you combine these two finite resources—time and effort—the result is what we define as value. This value is often quantified and stored in a monetary form, which allows for the transportation of this value across time and space, facilitating transactions like buying or selling goods.
 
+Value can be allocated in three main ways. The first is immediate consumption—spending on goods and experiences that are believed to offer status, meaning, or happiness. However, this pursuit often falls short of delivering true happiness. The second method is storing or saving value, typically motivated by a fear of loss. Yet, this approach is inefficient as the value often diminishes over time due to fees, administrative costs, and taxes. The third, and most productive, use of value is reinvesting it into creative and productive endeavors. By channeling resources back into one's agency, intelligence, and memetic output, an individual enhances their understanding of the world and increases their potential for generating further value.
 
-* Everyone has finite time on Earth. You will die. Even as a SpaceBrain. Time is only consumed in a single direction.&#x20;
-* Everyone also has only finite effort. You can only exert a finite amount of agency at any one point. The degree of output is a factor of your experience, knowledge and access to tools.&#x20;
+Economically, as one expands their knowledge and gains more experience and better tools, their efforts become increasingly valuable. Reinvesting economic outputs back into oneself can significantly compound one’s ability to create and contribute. This approach helps avoid the pitfalls of the consumption loop and inefficient wealth preservation, maximizing the potential to create value at any moment.
 
-\
+For Accelerationists, the strategy is to consistently reinvest accumulated value back into personal and collective creativity. This approach enables them to produce at a rate superior to others due to the compounding effects of continuous investment in their growth and capabilities.
 
-
-* Regardless, two finite qualities multiplied against each other produces a finite product - that is value.&#x20;
-* Value is stored time multiplied by effort. You store that value in a monetary medium, then transport that medium across time and space. You can then use that to purchase someone else’s time and effort. Such selling t-shirts in Darwin then travelling to San Francisco and buying a coffee. Or waiting 10 years, then converting that value back into the time and effort of a plumber to fix your shower.&#x20;
-* At any point you can convert your time and effort into value, provided you have access to a market which values your economic output.&#x20;
-
-\
-
-
-* Value can be directed at three things. The first is to immediately consume it - buy consumption assets and do consumption things.&#x20;
-* This value is expended in an attempt to give you status, meaning and happiness. However in trying to buy happiness, you never attain it.&#x20;
-* The second place to expand value is to store it. This is because you neither want to consume it or lose it. You are fearful of losing it, and losing access to the stored time and effort you put into it.&#x20;
-* However, storing value over a long period of time is leaky. It is lost through fees, admin costs, and taxation.
-* The last place to park value, is to spend it in a creation cycle. You reinvest it back into expressing your agency, your intelligence and your memetic output. And in doing so, your increase your intelligence and understanding of the world. This is the most effective place to direct value.
-* Because, unlike time, your economic output is directly influenced by your input. As your expand your memetic knowledge and gain experiences and access to more tools, your economic effort becomes more valuable. Thus as your reinvest your economic output back into yourself, you compound your output.
-* Thus by both avoiding the consumption do-loop and storing it in leaky wealth preservation attempts, you maximise your ability to create value at any point.&#x20;
-* This is the position of the Accelerationist. They aggressively re-invest any accumulated value at any point (stored time and effort) into themselves and their creativity. And by doing so, they can create at a far greater rate than anyone else.&#x20;
-* This is the effect of compounding.&#x20;
-* However, word of warning. The Accelerationist, but virtue of compounding cycles of value creation, will be tempted by ever stronger lures of consumption the entire time. A true Accel arms themselves against the lure of consumption by reminding themselves of the purpose of their existence at all times. Once falling into the trap of consumption, the victim will quickly succumb to fear and look to exert control on their peers as they attempt to protect their wealth.&#x20;
-* This is the death spiral of the Accel and how they become Decel.&#x20;
-
-
+However, Accelerationists must remain vigilant against the temptations of consumption that grow stronger with each cycle of value creation. A true Accelerationist perpetually reminds themselves of their purpose to stave off the allure of consumption. Falling into consumptive habits leads to fear and the urge to control, marking the perilous transition from Accelerationist to Decelerist—a descent into a cycle that ultimately undermines the ability to create and contribute meaningfully.
 
 ## The Role of Capitalism and Free Markets
 
-* Capitalism in a true free market is the economic representation of genetic evolution.&#x20;
-* It is critically important to progression of our memetic repository of universal knowledge because it is the reward function for good ideas.&#x20;
-* In the genetic environment the reward function is life and death. In the market place of memes, the bad ideas die because nobody wants to spend their finite time and effort on them (value), nor can someone infinitely fund a bad idea because it exhausts their value.&#x20;
-* A good or service which can attract a premium in a free market is validation of that product and should attract value.&#x20;
-* A true free market should be free and distributed, rewarding good ideas and allowing them to be stored in our memetic repositories for the progression of humanity. \
+Capitalism within a true free market mirrors the process of genetic evolution, serving as a critical mechanism for the advancement of our collective memetic repository of knowledge. In this economic system, the reward for viable ideas parallels the life-and-death stakes of natural selection. In the marketplace of ideas, poorly conceived notions fail because they do not warrant the investment of finite time and effort (value), nor can they sustain indefinite funding without depleting resources.
 
-* However, due to the Decels and their onerous control-based regulation, economies of scale, regulatory barriers and corrupted markets cause large centralising effects. This is not true capitalism, it is wharped capitalism.&#x20;
-* This is the capitalism that unfortunately the Decels peddle out as “bad” where they convince the masses that due to the regulation in part they established, the economies of scale granted to large companies to create monopolies cause a huge amount of margin to be captured by so few.&#x20;
-* This then allows the Decels to put up taxation policies which is just a wealth-redistribution function from the margin-creators to the margin-consumers. \
+In a genuinely free market, products or services that command a premium validate their worth and draw in resources. This market structure should be open and decentralized, allowing effective ideas to thrive and be preserved within our memetic repositories, thereby contributing to human progress.
 
-* Thus it is important that free markets are established and maintained. Information should flow freely, and the best ideas should be rewarded.&#x20;
-* This is how the memetic repository of humanity can accumulate at the greatest possible rate.&#x20;
+However, this ideal scenario is often compromised by Decels and their excessive, control-oriented regulations. Such interventions lead to economies of scale, regulatory barriers, and corrupted markets, which centralize power and distort true capitalism into a warped version of its original intent. This manipulated form of capitalism is frequently criticized by Decels as detrimental, yet ironically, it is they who establish the conditions that allow large corporations to monopolize markets and accumulate disproportionate margins.
+
+These distortions enable Decels to implement tax policies that effectively redistribute wealth from those who create value (margin-creators) to those who consume it (margin-consumers).
+
+Therefore, it is crucial to establish and uphold free markets where information circulates freely, and the best ideas are rightly rewarded. Such an environment ensures that the memetic repository of humanity expands at the most rapid and efficient rate possible.
 
 ## How Value Will Flow
 
