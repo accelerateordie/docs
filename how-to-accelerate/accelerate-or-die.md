@@ -1,10 +1,5 @@
-# Accelerate or Die
+# This Publication
 
+The initial step I can take is to encapsulate the essence of the movement in a single volume; this book. My aim is to articulate the principles of Accelerationism with precision and depth, preserving them in written form. Each year, I plan to revisit and update the book to ensure it remains a dynamic, evolving document that reflects the current state of the movement. This book is intended to be a guiding beacon for Accelerationism, representing my perspective—just one among potentially many as I intend to incorporate insights from a broad spectrum of contributors within the movement.
 
-
-* The first step I can take is to compose the full movement in one volume; this book.&#x20;
-* To explain the movement in high detail, to capture it in written form. Then return each year and update it. This book should serve humanity as one long written snapshot of Accelerationism.&#x20;
-* It is my perspective of Accelerating, in as much as it could be one perspective of the movement, it certainly is just one. And there should be many. I will seek to get the input from as many people from the movement as possible. This book should be the North Star of Acceleration.&#x20;
-* The book should be marketed to and made available to as many people as possible, the price point of the book should only just be enough to fund itself and its promotion.&#x20;
-* Every book sale should be reinvested back into its publication and distribution.&#x20;
-* The book will be written and published as quickly as possible, then iterated with input.
+The book will be marketed broadly and priced only high enough to sustain its production and promotion. Every sale will be reinvested into further publishing and distributing the book, ensuring it reaches as wide an audience as possible. The publication process will be swift to keep pace with the evolving nature of Accelerationism, with ongoing revisions informed by community feedback and new developments.
