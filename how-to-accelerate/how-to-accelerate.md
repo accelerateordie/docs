@@ -1,48 +1,19 @@
 # How to Accelerate
 
-* To Accelerate is simply putting yourself in the state of mind that your purpose is to express agency whilst manifesting intelligence, and to extend the light of consciousness into the universe
-* The state of mind is one of sheer self-belief, optimism and absolute devotion to your purpose. You look at everything from the mindset of an accelerations, you seek to understand the universe and your environment from first principles
-* Your role is to incrementally advance humanity’s intelligence, to spread memes and genes.
-* Firstly you must tell yourself you are accelerating, you must acknowledge your purpose
-* Then you must seek to break free of the consumption do-loop, instead looking to use all your time and effort to create
-* To increase Humanity’s genetic and/or memetic repositories. Either is sufficient, if possible, do both. To increase the number of brains of humanity devoted to accelerating, and campaigning them to accelerate.&#x20;
-* You should seek a stable partner and extend your genes - have children and at least two, so that your replacement is more than 1 to 1.&#x20;
-* You should then devote your attention to accelerating them, how quickly can they learn about the universe before they are also in a position to accelerate\
+To accelerate is to adopt a mindset dedicated to expressing agency while manifesting intelligence, aiming to expand the light of consciousness into the universe. This mindset is characterized by unwavering self-belief, optimism, and an absolute commitment to one’s purpose. As an accelerationist, you approach everything with the intent to understand the universe and your environment from first principles. Your mission is to incrementally advance humanity’s intelligence, spreading both memes and genes.
 
-* You should then take all your time and effort and consume it on understanding the environment and universe, then seek to solve a problem necessary to accelerate humanity.&#x20;
-* You should state to the world exactly what you are doing. You should build in public, not secret.  The accelerationist does not build products and services to accumulate value to consume more, their motives are pure, they are building to accelerate humanity, and seek to inspire and campaign as many people around them as possible
-* If you build in secret, you are in fact simply masquerading as consumer, you wish to accumulate value simply to consume more. You have not exited the consumption do-loop and you will in fact decelerate humanity
-* The following chapters layout my plans to accelerate humanity. I will state them all to as greater detail as possible, and I will devote all my time, effort and stored value to achieving them
-* The plans are vast and may seem ridiculous but they are directionally correct.&#x20;
-* Given my current understanding of the progress of humanity, its genetic and memetic repositories, and my knowledge of the universe, I view them as both possible and necessary.&#x20;
-* As I begin accelerating, the plans are likely to change in the implementation, but that is a normal part of the evolution of intelligence.&#x20;
-* The following ideas are increasingly more complex and capital intensive. The first thought you may have is disbelief that it can be built let alone even funded.
-* As an accelerationist I do not look for reasons not to do things, I simply begin accelerating, with sheer determination and optimism.&#x20;
-* An accelerationist recognises the logarithmic nature of accelerating; that efforts snowball and effects compound. Humanity just needs one person to ignite a movement, then anything is possible
-* Anyone can be that one person. It could be you, it could be me. It’s time to accelerate.&#x20;
+The first step in this journey is to affirm your role in acceleration and recognize your overarching purpose. It’s essential to break away from the consumption loop, redirecting your time and effort towards creation. This involves enhancing humanity’s genetic and/or memetic repositories. Achieving either is beneficial; accomplishing both is ideal. You aim to increase the number of minds committed to acceleration, inspiring them to join the cause.
+
+Seeking a stable partner and having children—to ensure your contribution exceeds replacement level—extends your genetic influence. Your focus then shifts to nurturing their acceleration, fostering their understanding of the universe so they too can contribute effectively.
+
+Your efforts should then be fully invested in comprehending the environment and the universe, identifying and solving key problems that will propel humanity forward. Transparently share your goals and progress; build openly, not in secrecy. Building in public underscores the purity of your motives, demonstrating that your aim is not to amass resources for personal consumption but to drive humanity forward and inspire those around you.
+
+If you choose secrecy, you risk being perceived as merely another consumer, hoarding value for personal gain rather than contributing to collective advancement. This can inadvertently decelerate humanity.
+
+The forthcoming chapters will detail my plans for accelerating humanity. I will elaborate on these plans with as much precision as possible, committing all my resources, time, and effort to realize them. These plans, vast and seemingly outlandish, are directionally sound. Given my current understanding of humanity's progress, its genetic and memetic heritage, and my grasp of the universe, I consider them both feasible and necessary.
+
+As I embark on this journey of acceleration, the specifics of these plans may evolve—this adaptability is a natural part of the evolution of intelligence. The initial reaction to these ideas might be skepticism, questioning their feasibility or funding. However, as an accelerationist, I do not dwell on reasons why something might not work; instead, I start with determination and optimism. Acceleration acknowledges that efforts snowball and effects compound. Humanity only needs one person to start a movement, and then anything is possible. You or I could be that catalyst. It’s time to accelerate.
 
 
-
-##
-
-
-
-##
-
-*
-
-
-
-##
-
-*
-
-##
-
-*
-
-##
-
-*
 
 \
