@@ -1,6 +1,6 @@
 # Introduction
 
-This publication attempts to explain the idea of Accelerationism. It will first introduce the necessity of Acceleration, then describe the pathways of intelligence. It then describes the Machines and how they evolve, then attempts to describe the universe itself. From there it explains the purpose of a Moral Compass, and how the Decelerationists use fear to control humanity. Finally it lays out a plan to Accelerate Humanity, which I will attempt. There is not attempt to gate-keep any part of the plan; because it the over-arching idea is more important for distribution.
+This publication attempts to explain the idea of Accelerationism. It will first introduce the necessity of Acceleration, then describe the pathways of intelligence. It then describes the Machines and how they evolve, then attempts to describe the universe itself. From there it explains the purpose of a Moral Compass, and how the Decelerationists use fear to control humanity. Finally it lays out a plan to Accelerate Humanity, which I will begin immediately. There is not attempt to gate-keep any part of the plan; because the over-arching idea is more important for distribution.
 
 ## The Imperative to Accelerate
 
