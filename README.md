@@ -10,5 +10,12 @@ I wrote the substantial part of this document as a long list of ideas in one ses
 \
 Regardless, the ideas are now out in the open. Let’s see where it takes us.&#x20;
 
+
+
+I will be taking edits. Submit a PR here:\
+
+
+{% embed url="https://github.com/accelerateordie/docs" %}
+
 \
 \#accelerate
