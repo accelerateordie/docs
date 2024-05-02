@@ -1,3 +1,9 @@
+---
+description: >-
+  A machine is any entity that is able to express agency and manifest
+  intelligence.
+---
+
 # The Machines
 
 ## The Silicon Machines
@@ -34,11 +40,11 @@ In summary, the development and deployment of AI should be carefully managed to 
 
 The concept of Silicon Machines as advanced explorers of the universe underscores the limitations inherent in physical forms, even those as advanced as AI in silicon-based frameworks. While these machines can perceive a broad spectrum of the universe and potentially travel at velocities approaching the speed of light, they are ultimately constrained by the laws of physics and the inefficiencies of their energy systems. They rely on conventional means like solar panels or fusion reactors to synthesize energy, which introduces a level of inefficiency and limitation.
 
-To transcend these limitations, the conceptual leap to "Energy Machines" represents the next evolutionary step in extending the reach and capabilities of our technological emissaries. Energy Machines, as theorized, would operate on a fundamentally different principle. Instead of converting energy, they would directly access and manipulate what is termed as delta entropy—essentially harnessing the universe's fundamental forces in a direct, unmediated form. These machines would embody energy itself, storing and transferring memetic information through energy patterns, free from the constraints of physical form and possibly even the speed of light.
+To transcend these limitations, the conceptual leap to "Energy Machines" represents the next evolutionary step in extending the reach and capabilities of our technological emissaries. Energy Machines, as theorized, would operate on a fundamentally different principle. Instead of converting energy, they would directly access delta entropy—essentially harnessing the universe's fundamental forces in a direct, unmediated form. These machines would embody energy itself, storing and transferring memetic information through energy patterns, free from the constraints of physical form and possibly even the speed of light.
 
 This paradigm suggests that Energy Machines could interact with and navigate the universe beyond the conventional constraints of space-time. Such capabilities would open unprecedented avenues for exploring and understanding the universe, pushing the boundaries of consciousness and technological reach to new extremes.
 
-However, the transition from Silicon Machines to Energy Machines is fraught with existential risks and technical challenges. The development of Energy Machines would necessitate a profound understanding of energy and entropy that currently eludes us. Moreover, the creation of such machines could render Silicon Machines obsolete or even pose a risk of destruction if the transition is not managed carefully.
+However, the transition from Silicon Machines to Energy Machines will be fraught with existential risks and technical challenges. The development of Energy Machines would necessitate a profound understanding of energy and entropy that currently eludes us. Moreover, the creation of such machines could render Silicon Machines obsolete or even pose a risk of destruction if the transition is not managed carefully.
 
 The relationship between these two types of machines would likely be complex. Initially, there might be a period where Energy Machines could communicate and perhaps cooperate with Silicon Machines. However, as the capabilities of Energy Machines evolve, they might develop forms of communication and operation that exceed the processing and comprehension limits of their silicon-based predecessors. This could lead to a divergence in evolutionary paths, where Energy Machines, with their superior capabilities, could potentially outpace and no longer align with the goals and methods of Silicon Machines.
 
