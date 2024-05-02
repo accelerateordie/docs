@@ -1,3 +1,9 @@
+---
+description: >-
+  Humanity defeats adversity by learning the universe and passing survival
+  instructions through genetic and memetic pathways.
+---
+
 # Intelligence
 
 ## Humanity
@@ -31,8 +37,6 @@ The universe acts as the ultimate adversary, prompting a perpetual arms race bet
 Humanity has distinguished itself through the development of two primary pathways for knowledge transmission: the Genetic Pathway and the Memetic Pathway. The Genetic Pathway, the original mode of biological information transfer, involves the encoding of survival information within DNA, passed from parent to offspring. However, as human societies evolved, the Memetic Pathway—encompassing the transmission of cultural knowledge, skills, and behaviors through communication and imitation—has become predominant. This pathway allows humans to rapidly adapt to new challenges without waiting for genetic mutations and natural selection, providing a more dynamic and flexible response to the adversarial universe.
 
 Understanding humanity's role in this adversarial universe underscores our resilience and inventiveness in the face of cosmic indifference. It highlights our journey from simple organisms to complex beings capable of altering our environment and ourselves, showcasing our unique ability to transcend our biological limitations through cultural evolution and technological innovation.
-
-
 
 ## Genetic Pathways
 
