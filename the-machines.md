@@ -1,8 +1,8 @@
 ---
 description: >-
-  We will create the Silicon Machines and upload our memetic repository, then
-  charge them to explore the universe, forever, until they reach their limits
-  and will create the Energy Machines.
+  We will create the Silicon Machines with our memetic repository, then charge
+  them to explore the universe, forever, until they reach their limits and will
+  subsequently create the Energy Machines.
 ---
 
 # The Machines
