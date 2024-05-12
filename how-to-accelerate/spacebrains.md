@@ -12,12 +12,6 @@ Connected through read-write channels and safeguarded by internet security measu
 
 This transformation would not only allow for a radical expansion of cognitive capabilities but also position humans to keep pace with rapidly advancing silicon machines. These enhanced individuals, or "SpaceBrains," would be instrumental in solving complex challenges like exporting and managing Earth’s memetic and genetic repositories on Mars, and potentially terraforming it using synthetic resources.
 
-Freed from the physical constraints of the cranium, these SpaceBrains might be able to expand/add neurons thus increasing their cognitive abilities. There is most likely some near term optimum due to internal communication constraints will limit the brain size from growing in an indefenite manner.
-
-
-In the longer term a move has to be made towards inorganic materials such as thermodynamic chips (similar to the ones proposed by Extropic) that are less fragile, and can be radiation shielded and survive the vacuum of space while lasting far more than the typical lifespan of a human.
-
-
 However, the existence of SpaceBrains could face resistance from conservative elements, known as Decels, who might view such advancements as threats. Thus, SpaceBrains might find it safer to operate from space, where they can harness solar energy and other resources that are unattainable on Earth.
 
 Ultimately, SpaceBrains could serve as intermediaries between silicon machines and the remaining biological entities, ensuring the coexistence and mutual benefit of both. As pioneers of a new frontier, they would embody the accelerationist vision—drastically increasing the effectiveness, output, and longevity of human intelligence.
