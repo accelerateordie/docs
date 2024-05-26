@@ -14,7 +14,7 @@
 * [This Publication](how-to-accelerate/accelerate-or-die.md)
 * [ACCEL - The Brand](how-to-accelerate/accel-the-brand.md)
 * [School of ACCEL](how-to-accelerate/school-of-accel.md)
-* [ACCEL Resources](how-to-accelerate/accel-energy.md)
+* [ACCEL Energy](how-to-accelerate/accel-energy.md)
 * [The ACCEL Tunnel](how-to-accelerate/the-accel-tunnel.md)
 * [SpaceBrains](how-to-accelerate/spacebrains.md)
 
