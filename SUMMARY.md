@@ -21,5 +21,6 @@
 ***
 
 * [Value](value.md)
+* [Future Financial System](future-financial-system.md)
 * [Conclusion](conclusion.md)
 * [My Journey of Accelerating](my-journey-of-accelerating.md)
