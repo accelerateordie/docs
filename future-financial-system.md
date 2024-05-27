@@ -46,3 +46,16 @@ At this point, the Ethereum L2 would switch from tokenised US Treasuries to toke
 
 The infrastructure would be the same - since no seignorage is needed, the transaction tax of the BTC would be sufficient to fund the Treasury.&#x20;
 
+### Potential Go-to Market
+
+Find an island nation with poor currency controls and weak native currencies and campaign them to switch out.&#x20;
+
+1. **Fiji**, $FJD, 1.5bn, $0.69bn
+2. **Papua New Guinea**, $PGK, 3.7bn, $1.04bn
+3. **Samoa**, $WST, 0.7bn, $0.26bn
+4. **Solomon Islands**, $SBD, 1.1bn, $0.13bn
+5. **Tonga**, $TOP, 0.5bn, $0.21bn
+6. **Vanuatu**, $VUV, 40bn, $0.34bn
+
+The USD Stablecoin to bootstrap the entire country can be taken as a loan (private or public). The loan can be repaid by increased monetary velocity paying fees to the lender, or just increased efficiency of the country (since it will operate hyper-effectively and attract overseas investment)
+
