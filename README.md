@@ -1,5 +1,19 @@
 # Foreword
 
+The raw unfiltered Stream of Thought is here:
+
+[https://docs.google.com/document/d/1yyrT4Zlrwi8vbyMvh9RwzBTludEydGTwu0zlOcxZbY0/edit#heading=h.4bm47vw5sqz5](https://docs.google.com/document/d/1yyrT4Zlrwi8vbyMvh9RwzBTludEydGTwu0zlOcxZbY0/edit#heading=h.4bm47vw5sqz5)
+
+
+
+An earlier effort was made to turn the Thought Stream into cohesive paragraphs, but a lot of precision was lost. It is now being re-written. Reah the Thought Stream above to access greater precision.&#x20;
+
+
+
+***
+
+
+
 This publication is a work in progress. It needs editing, researching and re-organisation. It needs to be crowd-edited and it must be open-source. It is my latest understanding of Accelerationism. Some of it could be wrong and may be changed later.&#x20;
 
 \
